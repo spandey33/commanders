@@ -1,5 +1,5 @@
 ---PROJECT 1: COMMANDERS---
-Taylor Cox and Shika Pandey
+Taylor Cox and Shikha Pandey
 
 Boring works fully, custom
 kinda just gives an infinite
